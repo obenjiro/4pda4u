@@ -1,0 +1,4 @@
+block header {
+	tag: 'h1',
+	js: true
+}
