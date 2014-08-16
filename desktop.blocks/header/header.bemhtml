@@ -1,4 +1,4 @@
 block header {
-	tag: 'h1',
+	tag: 'h2',
 	js: true
 }
