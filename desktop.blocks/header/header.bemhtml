@@ -1,4 +1,0 @@
-block header {
-	tag: 'h2',
-	js: true
-}
